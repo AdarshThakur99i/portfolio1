@@ -6,10 +6,10 @@ import {motion,useScroll,useSpring,useTransform,} from "framer-motion"
 const items = [
   {
     id: 1,
-    title: "INSTITUTE WEBSITE",
-    image: "Screenshot 2024-04-01 135300.png",
-    desc: "I have developed a website for NIT Hamirpur as per their instructions, which includes details about various activities in our department. The website showcases comprehensive information about academic programs, faculty, research projects, events, and facilities offered by the department, serving as a central platform for students, faculty, and visitors to access relevant information efficiently. LINK: https://www.eedconferencenith.in/",
-    link:"https://www.eedconferencenith.in/"
+    title: "Mini hiring platform",
+    image: "image copy 9.png",
+    desc: "TalentFlow is a mini hiring platform built with React that enables HR teams to manage jobs, candidates, and assessments—all without a backend. It supports drag-and-drop reordering, virtualized lists, live assessment previews, and offline persistence using IndexedDB.",
+    link:"https://talentflow-nine.vercel.app/"
   },
   
   {
